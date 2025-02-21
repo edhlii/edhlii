@@ -17,7 +17,6 @@
 
 ## 📫 Contact  
 - 🌐 Blog: [edhlii.github.io](https://edhlii.github.io)  
-- 🌐 GitHub: [github.com/your-username](https://github.com/edhlii)  
 - 📧 Email: [dhgamer1811@gmail.com](mailto:dhgamer1811@gmail.com)
 - 
 
